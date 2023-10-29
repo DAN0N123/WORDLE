@@ -21,6 +21,7 @@ wordx = wordy.upper()
 
 
 
+
 pygame.init()
 screen = pygame.display.set_mode((850,900))
 pygame.display.set_caption('WORDLE')
